@@ -3,11 +3,11 @@
 <h3 align="center">Full-Stack Developer | Python Developer | Building Practical Web & AI-Powered Projects</h3>
 
 <p align="center">
-  I enjoy turning ideas into real, usable applications — from modern web interfaces to backend systems, automation tools, and experimental projects.
+  I turn ideas into practical applications — from modern web interfaces and backend systems to Python automation and AI-assisted projects.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bilal175-gif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Bilal175-gif&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -15,30 +15,31 @@
 ## 👨‍💻 About Me
 
 - 🚀 Building full-stack web applications and practical tools
-- 🐍 Working with Python for automation, data processing, and backend projects
-- 🌐 Building modern applications with Vue.js, Node.js, Express.js, and MongoDB
+- 🐍 Working with Python for automation, data processing, and backend development
+- 🌐 Developing modern applications with Vue.js, Node.js, Express.js, and MongoDB
 - 🎨 Creating responsive interfaces with Tailwind CSS
-- 🤖 Exploring AI-assisted development and intelligent web tools
-- 📚 Continuously improving my backend, API, and software engineering skills
-- 🔨 I believe the best way to learn development is by building real projects
+- 🤖 Exploring AI-assisted development and intelligent web applications
+- 🔌 Learning API development and scalable backend architecture
+- 📚 Continuously improving my software engineering skills
+- 🛠️ Learning by building real-world projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind,vite" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" />
 </p>
 
-### Tools
+### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -49,56 +50,62 @@
 ## 🚀 Featured Projects
 
 ### 💼 Bilal Portfolio
-A full-stack personal portfolio built with modern frontend and backend technologies.
 
-**Tech:** Vue 3 • TypeScript • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Mongoose
+A full-stack personal portfolio built with a modern frontend and backend architecture.
+
+**Tech Stack:** Vue 3 • TypeScript • Vite • Tailwind CSS • Node.js • Express.js • MongoDB • Mongoose
 
 ---
 
 ### 🧠 BlogReach Matching Engine
-A Python-based project focused on matching and processing data for BlogReach.
 
-**Tech:** Python
+A Python-based matching engine focused on processing and matching structured data.
+
+**Tech Stack:** Python
 
 ---
 
 ### ✈️ Travel App
-A Python-based travel application project focused on practical functionality and experimentation.
 
-**Tech:** Python
+A Python-based travel application built to explore practical application development and travel-related functionality.
+
+**Tech Stack:** Python
 
 ---
 
 ### 🌐 Domain Generator
-A Python project for generating and working with domain-name ideas.
 
-**Tech:** Python
+A Python project for generating and processing domain-name ideas.
+
+**Tech Stack:** Python
 
 ---
 
 ### 📰 Tech RSS Collector
-A Python-based tool for collecting and processing technology-related RSS content.
 
-**Tech:** Python
+A Python-based tool designed to collect and process technology-related RSS content.
+
+**Tech Stack:** Python
 
 ---
 
 ### 🛒 Pak Multilinks
-Contributing to the development and improvement of the Pak Multilinks web platform.
 
-**Focus:** Web Development • UI/UX • Functionality • Customer Experience
+Contributing to the development and continuous improvement of the Pak Multilinks web platform.
+
+**Focus:** Web Development • UI/UX • Responsive Design • Functionality • Customer Experience
 
 ---
 
 ## 📈 Current Focus
 
 ```text
-→ Building production-ready full-stack projects
-→ Improving Python development skills
-→ Creating better APIs and backend systems
-→ Learning scalable application architecture
-→ Improving UI/UX and responsive design
-→ Exploring practical AI integrations
+🚀 Building production-ready full-stack applications
+🐍 Improving Python development skills
+⚙️ Creating better APIs and backend systems
+🏗️ Learning scalable application architecture
+🎨 Improving responsive UI/UX
+🤖 Exploring practical AI integrations
 ```
 
 ---
@@ -106,12 +113,15 @@ Contributing to the development and improvement of the Pak Multilinks web platfo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bilal175-gif&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal175-gif&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Bilal175-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bilal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal175-gif&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal175-gif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal175-gif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -119,24 +129,28 @@ Contributing to the development and improvement of the Pak Multilinks web platfo
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bilal175-gif/Bilal175-gif/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bilal175-gif/Bilal175-gif/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bilal175-gif/Bilal175-gif/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bilal175-gif/Bilal175-gif/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
-## 🎯 My Development Philosophy
+## 🎯 Development Philosophy
 
-> Build. Break. Learn. Improve. Repeat.
+> **Build. Break. Learn. Improve. Repeat.**
 
-I focus on learning through real projects rather than only tutorials. Every project is an opportunity to improve my code, solve a new problem, and build something more useful than before.
+I believe real development skills come from building. Every project gives me an opportunity to solve new problems, write better code, and turn ideas into useful software.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Bilal175-gif">
-    <img src="https://img.shields.io/badge/GitHub-Bilal175--gif-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Bilal175--gif-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -144,4 +158,8 @@ I focus on learning through real projects rather than only tutorials. Every proj
 
 <p align="center">
   <b>💻 Turning ideas into working software, one project at a time.</b>
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Bilal175-gif">Bilal Shah</a>
 </p>
