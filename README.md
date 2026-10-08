@@ -59,7 +59,7 @@ A full-stack personal portfolio built with a modern frontend and backend archite
 
 ### 🧠 BlogReach Matching Engine
 
-A Python-based matching engine focused on processing and matching structured data.
+A Python-based matching engine for [BlogReach.com](https://blogreach.com) — the guest-posting marketplace — focused on processing and matching structured data.
 
 **Tech Stack:** Python
 
